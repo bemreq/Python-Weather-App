@@ -1,7 +1,6 @@
-"""Module providing a function printing python version."""
 import requests
-
-API_KEY = '45227d46ee50ed501779eeab26c62bf7'
+           
+API_KEY = 'xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx'
 
 user_input = input('Enter City: ')
 
